@@ -15,6 +15,7 @@ Introduction
 This project aims to bring together your knowledge on the use of localhost and basic web security tactics.
 Business Context
 There are many ways to add forms to websites that vary according to context and platform. Nevertheless, your ability to build a basic form in HTML and improve its security using JavaScript will serve you well no matter which context you ultimately develop in.
+Next
 
 2. Instructions
 Instructions
@@ -40,3 +41,8 @@ If you would rather upload your project to GitHub, please make sure to have the 
 If you are unsure of how to do this, please follow these instructions.
 It is important to understand you will need to make a separate repository for every project. You cannot deploy multiple pages from the same repository, even with different branches.
 Also, no matter whether you uploaded your files from your computer or not, make sure to thoroughly test your code! This only takes a few minutes, but will prevent the amount of resubmissions because you missed something.
+GitHub Repo & Pages
+If your project is uploaded to Codio, simply type "N/A".
+
+Submit Answer!
+Mark as CompletedBack to dashboard
