@@ -3,7 +3,9 @@ I will work and upload project 16
 
 ...
 
-1. Project: Security
+[Project 16 Requirements]
+
+Page 1. Project: Security
 Sanitized Variables & Relative Paths
 Goals
 By the end of this project you will:
@@ -17,7 +19,7 @@ Business Context
 There are many ways to add forms to websites that vary according to context and platform. Nevertheless, your ability to build a basic form in HTML and improve its security using JavaScript will serve you well no matter which context you ultimately develop in.
 Next
 
-2. Instructions
+Page 2. Instructions
 Instructions
 Begin with the Newsletter sign up form developed locally in Day 2, Lesson 1 Defending against XSS.
 Add a phone number field to your Newsletter Signup form.
@@ -46,3 +48,5 @@ If your project is uploaded to Codio, simply type "N/A".
 
 Submit Answer!
 Mark as CompletedBack to dashboard
+
+...
