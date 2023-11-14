@@ -301,3 +301,15 @@ I'm going to remove myself from chris's repository.
 DBPF                   1¢`1¢`          (                                                   °   û 6á  ô   à  á ˆ ž  • #DãGrapevine ntry CplubÄ  ÞàDefaÇóèctoŽ  ¤€)HB„wŒ ´  ‚…Ì  ÿÌ  ÿÄ  ½áMid Citi²€?esà’Ñ  €Ž³qžÛà  
 °‚à   Á
 BÌ  ÿÌ  ¿ünÝ©nÝI   6  nÝ©nÝI   `   °   ïkèïkèk(     
+
+...
+
+4. Conclusion & Takeaways
+Conclusion & Takeaways
+Overall Google Analytics is a great website tracking tool that provides real-time data on various metrics to help you understand user behavior on your website. Setting it up is important and straightforward. The goal is to integrate it with your site and start tracking everything along with customizing reports to help you understand and find gaps in your website so you can improve and optimize it. The latest version, Google Analytics 4, offers improved features that provide even greater insights. Since it’s always improving, the best way to learn is to start generating reports and to be curious!
+Attribution
+(n.d.-a). Business-performance-analysis-with-graphs. https://www.freepik.com. https://www.freepik.com/free-vector/business-performance-analysis-with-graphs_3585415.htm#query=report&position=1&from_view=search&track=sph
+Smart, D. (2019, February 26). Google Analytics Audience Overview Report Explained. Sonet Digital. https://sonet.digital/blog/seo/google-analytics-audience-overview-report-explained/
+Moz. (2021, August 27). Audience Reports - Beginner’s Guide to Google Analytics. Moz. https://moz.com/beginners-guide-to-google-analytics/audience-reports
+Jones, M. (2017, March 1). Google Analytics: Custom Reports, Shortcuts, Dashboards. Practical Commerce. https://www.practicalecommerce.com/Google-Analytics-Custom-Reports-Shortcuts-Dashboards
+Koks, P. (2018, March 13). How to Leverage Real-Time Reporting for Your Business. Online Metrics. https://online-metrics.com/real-time-reporting/
