@@ -1,3 +1,7 @@
+This is an older project, but I think that I figured out something about how 
+to set up project 8 in GitHub, but I'm not sure if this will work.
+
+
 This is the place where 
 I will work and upload project 16
 
