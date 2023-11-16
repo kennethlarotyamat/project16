@@ -439,3 +439,125 @@ To design and create a website.
 Check It! (3 left)
 Next
 
+1. Robots.txt Generators, Hit Counter and A/B Testing
+Robots.txt Generators, Hit Counter and A/B Testing
+Robots.txt Generator
+Goals:
+Understand the purpose of robots.txt file: control web crawlers and search engine bots
+Create basic robots.txt file to restrict website access
+Learn syntax and commands for writing robots.txt file: User-Agent, Disallow rules
+Structure and organize robots.txt files for proper interpretation
+Connect robots.txt files to optimizing websites for search engines: improve web dev and SEO knowledge
+Introduction
+The robots.txt file is an important aspect of website optimization. It provides information to search engine robots about which pages or sections of the site should be crawled and indexed. By using a Robots.txt Generator, you can quickly and easily create a robots.txt file for your website. You can generate your own Robots.txt file here: https://en.ryte.com/free-tools/robots-txt-generator/
+Next
+
+...
+
+2. What is a Robots.txt File?
+What is a Robots.txt File?
+cute robot holding text bubbles
+A robots.txt file is a simple text file that is placed in the root directory of a website which is the public_html folder. It tells search engine robots which pages or sections of the site they should crawl and index. This can be useful if you have certain pages or sections of your site that you don’t want to be indexed by search engines.
+The robots.txt file is essentially a set of instructions for search engine robots (also known as crawlers or spiders) that visit your website. By including a robots.txt file, website owners can control which pages or sections of their site are crawled and indexed by search engines.
+The file consists of simple text commands that specify which parts of the site should be crawled, and which should be excluded. For example, if a website owner wants to exclude a certain directory, such as a staging environment or a private area of the site, they can do so by adding the following line to their robots.txt file:
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /secret-page.html
+This robots.txt file instructs all web crawlers (User-agent: *) not to index the pages in the /admin/, /private/ and /secret-page.html directories. This can be useful for preventing sensitive pages or pages that are not relevant to search engine indexing from being crawled and indexed.
+It’s important to note that while the robots.txt file can be used to limit the visibility of a website in search results, it is not a foolproof method for hiding content. Determined users or search engines can still access excluded pages if they have a direct link or know the URL.
+Here are a few examples of how the robots.txt file can be used:
+Excluding a directory:
+User-agent: *
+Disallow: /private/
+This line tells all search engines not to crawl or index the “private” directory on the website.
+Excluding a specific page:
+User-agent: *
+Disallow: /page-to-exclude.html
+This line tells all search engines not to crawl or index the specific page “page-to-exclude.html.”
+Allowing all pages to be crawled:
+User-agent: *
+Disallow:
+This line allows all search engines to crawl and index all pages on the website.
+Blocking specific search engines:
+User-agent: Googlebot
+Disallow: /
+This line blocks Googlebot from crawling or indexing any pages on the website.
+These are just a few examples of the many ways that the robots.txt file can be used to control which pages on a website are crawled and indexed by search engines. It’s important to note that not all search engines and robots follow the instructions specified in the robots.txt file, so it’s not a foolproof method for hiding content. However, it is still a useful tool for website owners to have in their SEO toolkit.
+Exercise 1:
+Write a robots.txt file for a website that has a “blog” section that you want to be excluded from search engine indexing.
+Instructions:
+Imagine you are the owner of a website that has a “blog” section.
+Write a robots.txt file using the format described in the content.
+Use the robots.txt file to exclude the “blog” section from search engine indexing.
+Test the robots.txt file to make sure it is working correctly. Here’s how to test it:
+a. Go to this site: https://technicalseo.com/tools/robots-txt/
+b. Type in your website URL you want to test, choose any user agent (Googlebot) is a good one, leave it to live, tick check resources and click ‘Test’
+test example
+You will get results showing any URLs you have disallowed and the result of your robots.txt file. Here’s an example of https://amazon.ca
+url results
+Answer:
+Robots.txt file:
+User-agent: *
+Disallow: /blog/
+Explanation: This robots.txt file instructs all search engines (User-agent: *) not to index the pages in the /blog/ directory.
+Testing: To test this robots.txt file, you can use a robots.txt tester tool (such as Google’s robots.txt tester) to see if the “blog” section is being excluded from search engine indexing.
+Next
+
+3. Best Practices for Robots.txt Files
+Best Practices for Robots.txt Files
+Best practices for robots.txt files are essential for ensuring that the file is effective and that search engines can access it. Here are some of the best practices in detail:
+Ensuring that the file is accessible to search engines: The robots.txt file should be placed in the root directory of the website and should be easily accessible to search engines. This can be done by ensuring that the file is located at the root URL (e.g. https://www.example.com/robots.txt).
+This is important because if the file is not easily accessible to search engines, they may not be able to find it and therefore, the instructions in the file will not be followed. Having the file accessible in the root directory ensures that search engines can quickly and easily find the file, allowing them to follow the instructions contained within it. This can help prevent search engines from crawling and indexing pages that are not meant to be indexed, improving the overall SEO of the website.
+Using clear and concise instructions: The robots.txt file should use clear and concise commands to specify which pages or sections of the site should be crawled and indexed. For example, the file should use a disallow statement to specify the pages that should not be crawled and indexed.
+Using clear and concise instructions helps search engines understand exactly what is allowed and what is prohibited on the site. This ensures that search engines only crawl and index the desired pages, reducing the risk of any unwanted pages appearing in search results.
+Avoiding the use of wildcard characters: Wildcard characters (e.g. * or $) should be avoided in robots.txt files. This is because they can lead to unintended consequences and can make the instructions in the file less effective.
+Avoiding the use of wildcard characters is important because search engines may interpret the wildcard characters in unexpected ways, leading to incorrect behavior. For example, a wildcard character could be misinterpreted as a match for all files within a directory, including those that should be indexed. This can result in important pages being excluded from the search engine’s index, reducing the visibility of your website.
+Wildcards: Use “*” to represent any sequence of characters, and end patterns with “$” to signify the end of a name.
+For instance:
+To block access to every URL containing a question mark "?":
+User-agent: *
+Disallow: /*?
+The "$" symbol is employed for “end of URL” matches. In this example, GoogleBot is prevented from crawling URLs ending with ".php":
+User-agent: Googlebot
+Disallow: /*.php$
+To exclude all files of a specific file type, apply the following:
+User-agent: Googlebot-Image
+Disallow: /*.gif$
+By designating Googlebot-Image as the User-agent, images will be omitted from Google Image Search.
+Avoiding the use of disallow statements: Disallow statements should be used with caution. If possible, allow statements should be used instead. This is because disallow statements can prevent search engines from accessing important pages on the site, which can negatively impact its SEO.
+The use of disallow statements in the robots.txt file tells search engines not to crawl and index certain pages or sections of the website. However, if these disallow statements are not used carefully, they can prevent search engines from accessing important pages on the site. This can negatively impact the site’s SEO by preventing search engines from discovering and indexing all of the site’s content.
+For instance, consider an online store that has a blog section and a private customer account section. The website owner wants search engines to crawl and index the blog but not the customer account section. If the disallow statement is not used carefully, it may block search engines from accessing both the blog and the customer account sections. This would negatively affect the website’s SEO by preventing search engines from indexing the blog’s content.
+Here’s an example of a properly configured robots.txt file:
+User-agent: *
+Disallow: /customer-account/
+Allow: /blog/
+By following these best practices, website owners can ensure that their robots.txt file is effective and that search engines can access it. This can help improve the visibility of the site in search results and provide a better experience for users.
+
+True or False: The robots.txt file is a simple text file that is placed in the root directory of a website.
+
+
+False
+
+
+True
+
+Check It! (4 left)
+
+
+What is the main purpose of the robots.txt file?
+
+
+To protect the website from hacking and security threats.
+
+
+To tell search engine robots which pages or sections of the site should be crawled and indexed.
+
+
+To provide information about the website’s structure and content to users.
+
+
+To host the website’s content.
+
+Check It! (4 left)
+Next
