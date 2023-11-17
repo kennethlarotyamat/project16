@@ -1,3 +1,5 @@
+I thought that I was really close with the nesletter signup, but I have to do it all over again. what a headache. I have to start from the beginning.
+
 I'm really amazed with how useful chat gpt is with this javascript stuff.
 
 ...
