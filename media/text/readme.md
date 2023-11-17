@@ -7,9 +7,9 @@ main repository.
 
 It's obviously, project 11 is obviously just part of the
 main index of my landing page in my main repository, but
-i'm pretty sure I had something seperate there. I guess
+i'm pretty sure I had something separate there. I guess
 I could poach project 11 material from my main index page,
-rather than hunting down whatever files I had specifically 
+rather than hunting down whatever files I had specifically
 for project 11. I have no idea where they would be.
 
 
