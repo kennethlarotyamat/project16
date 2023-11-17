@@ -1,3 +1,20 @@
+Alright, so, In retrospect, I probably should have
+left everything in separate repositories, rather than
+consolidating everything into a single repository,
+This is project 16, and we did something similar in
+project 11, but I can't find that darn project in my
+main repository.
+
+It's obviously, project 11 is obviously just part of the
+main index of my landing page in my main repository, but
+i'm pretty sure I had something seperate there. I guess
+I could poach project 11 material from my main index page,
+rather than hunting down whatever files I had specifically 
+for project 11. I have no idea where they would be.
+
+
+...
+
 2. Instructions
 Instructions
 Begin with the Newsletter sign up form developed locally in Day 2, Lesson 1 Defending against XSS.
