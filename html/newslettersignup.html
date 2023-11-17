@@ -10,7 +10,7 @@
      <div style="text-align:center;">
      <input type="text" name="fullname"  placeholder="Your name">
      <input type="text" name="email"  placeholder="Your email" >
-     <input type="tel" id="phone" name="phone" placeholder="Your phone #" maxlength="10"  class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+     <input type="tel" id=" " name="phone" placeholder="Your phone #" maxlength="10"  class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
      <input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();">
     </div>
    </form>
@@ -39,9 +39,11 @@ function validateInputs()
     //Assume they are dangerous for now
     var fullname    = new String(document.MyForm.fullname.value);
     var email   = new String(document.MyForm.email.value);
+    var phone   = new String(document.MyForm.phone.value);
 
     //Check that the user inputs are not blank
-    //JavaScript logical operator for OR : ||
+    //JavaScript logical operator for OR : ||    [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR]
+    // I'm going to replace this logical operator or with logical operator and
     if ( fullname.length<1 || email.length<1 )
     {
     FormErrors = "All fields are mandatory. Please complete the form.";
