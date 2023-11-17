@@ -26,7 +26,45 @@ Add a phone number field to your Newsletter Signup form.
 Use maxlength attribute to further restrict user inputs. [https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/maxlength]
 Create a JavaScript function to retrieve the phone number input from the user.
 Check that the phone number input is not blank.
+
 Check that the phone number contains only numbers and dashes.
+
+...
+
+User
+explain this to me :           var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+ChatGPT
+This line of code defines a regular expression pattern in JavaScript using the RegExp constructor. Regular expressions are sequences of characters that define a search pattern, used mainly for pattern matching within strings.
+
+Let's break down the regular expression pattern:
+
+javascript
+Copy code
+/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i
+Explanation of the pattern:
+
+/^ ... $/i: The slashes at the beginning and end (/^ ... $/) indicate the start and end of the regular expression pattern. The i at the end (/i) is a flag that makes the pattern case-insensitive.
+
+([\w-]+(?:\.[\w-]+)*): This part defines the pattern for the local part of an email address before the '@' symbol. Breaking it down:
+
+[\w-]+: Matches one or more word characters (alphanumeric characters and underscores) or hyphens.
+(?:\.[\w-]+)*: Matches zero or more occurrences of a dot followed by one or more word characters or hyphens. The (?: ... ) is a non-capturing group, and the * indicates zero or more occurrences.
+@: Matches the '@' symbol, which separates the local part from the domain part of the email address.
+
+((?:[\w-]+\.)*\w[\w-]{0,66}): This part defines the pattern for the domain part of the email address after the '@' symbol. Breaking it down:
+
+(?:[\w-]+\.)*: Matches zero or more occurrences of one or more word characters or hyphens followed by a dot. Again, (?: ... ) is a non-capturing group, and the * indicates zero or more occurrences.
+\w[\w-]{0,66}: Matches a word character followed by between 0 and 66 word characters or hyphens.
+\.: Matches a dot, separating the domain name from the top-level domain (TLD).
+
+([a-z]{2,6}(?:\.[a-z]{2})?): This part defines the pattern for the TLD (Top-Level Domain). Breaking it down:
+
+[a-z]{2,6}: Matches between 2 and 6 lowercase letters, which represents the main part of the TLD.
+(?:\.[a-z]{2})?: Optionally matches a dot followed by exactly 2 lowercase letters. The ? makes this part of the pattern optional.
+In summary, this regular expression is used to validate email addresses. It checks if the provided string matches the pattern commonly found in an email address, consisting of a local part (before '@'), '@' symbol, domain part (after '@' and before '.'), and the top-level domain (after '.'). The pattern ensures the email address follows a specific format but might not cover all possible valid email address variations due to the complexity of email address standards.
+
+...
+
 If there are any issues with the phone number field, prepare an error message for the user.
 If there are no problems with the phone number input, sanitize it before submitting the form.
 
