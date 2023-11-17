@@ -45,7 +45,11 @@ var filterPhone = /^[\d-]{10}$/;
     
     //Use test() method to check user email against the filter
     //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
-    if (!filter.test(email))
+
+    // if (!filter.test(email) && !filterPhone.test(phone))
+
+    // if (!filter.test(email))
+    if (!filter.test(email) && !filterPhone.test(phone))
     {
         FormErrors = "Your form contains invalid field entries. Please correct your form before submitting";
         SubmitForm = false;
