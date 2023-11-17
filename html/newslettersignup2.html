@@ -65,6 +65,9 @@ var filterPhone = /^[\d-]{10}$/;
         email = email.replace(/[^a-z0-9_@.-]/gim,"");
         email = email.trim();
 
+        noFormErrors = "Looks Great! Thank You!";
+        alert(noFormErrors);
+
         //ready to submit
         document.MyForm.submit();
     }
