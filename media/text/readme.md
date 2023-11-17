@@ -15,6 +15,12 @@ for project 11. I have no idea where they would be.
 
 ...
 
+Check that the phone number contains only numbers and dashes.
+If there are any issues with the phone number field, prepare an error message for the user.
+If there are no problems with the phone number input, sanitize it before submitting the form.
+
+...
+
 2. Instructions
 
 
@@ -28,6 +34,8 @@ Create a JavaScript function to retrieve the phone number input from the user.
 Check that the phone number input is not blank.
 
 Check that the phone number contains only numbers and dashes.
+If there are any issues with the phone number field, prepare an error message for the user.
+If there are no problems with the phone number input, sanitize it before submitting the form.
 
 ...
 
