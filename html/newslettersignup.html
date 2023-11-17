@@ -100,24 +100,18 @@ if (!filterPhone.test(phone)) {
     }
 
     
-    if (SubmitForm == false)
-    {
-        //The form cannot be submitted.
+    if (SubmitForm == false || SubmitEmailProblemsForm == false || SubmitPhoneProblemsForm == false) {
+    if (SubmitForm == false) {
         alert(FormErrors);
-        return false;
-    }
-    if (SubmitEmailProblemsForm == false)
-    {
-        //The form cannot be submitted.
+    } else if (SubmitEmailProblemsForm == false) {
         alert(FormEmailErrors);
-        return false;
-    } 
-    if (SubmitPhoneProblemsForm == false)
-    {
-        //The form cannot be submitted.
+    } else if (SubmitPhoneProblemsForm == false) {
         alert(FormPhoneErrors);
-        return false;
-    }  
+    }
+    //The form cannot be submitted.
+    return false;
+}
+  
     
     
     else {
