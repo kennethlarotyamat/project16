@@ -43,8 +43,9 @@ function validateInputs()
 
     //Check that the user inputs are not blank
     //JavaScript logical operator for OR : ||    [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR]
-    // I'm going to replace this logical operator or with logical operator and
-    if ( fullname.length<1 || email.length<1 )
+    // I'm going to replace this logical operator or with logical operator and https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
+    // if ( fullname.length<1 || email.length<1 )
+    if ( fullname.length<1 && email.length<1 && phone.length<1 )
     {
     FormErrors = "All fields are mandatory. Please complete the form.";
     SubmitForm = false;
