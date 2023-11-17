@@ -84,7 +84,7 @@ var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?
         alert(FormErrors);
         return false;
     } else {
-        noFormErrors = "Looks Great! Thank You!";
+        
         //SANITIZE user inputs by allowing only [a-z 0-9 _ - . @] 
         //strip forbidden characters
         fullname = fullname.replace(/[^a-z0-9\s\-]/gim,"");
@@ -94,8 +94,12 @@ var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?
 
         //ready to submit
         document.MyForm.submit();
-        alert(noFormErrors);
+
     }
+    // else {
+    //     noFormErrors = "Looks Great! Thank You!";
+    //             alert(noFormErrors);
+    // }
 }
 </script>
 </body>
