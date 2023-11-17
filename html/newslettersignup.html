@@ -92,6 +92,8 @@ var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?
         email = email.replace(/[^a-z0-9_@.-]/gim,"");
         email = email.trim();
 
+        // setting up this noFormErrors variable was a minor annoyance. a minor annoyance worth mentioning.
+
         noFormErrors = "Looks Great! Thank You!";
         alert(noFormErrors);
 
