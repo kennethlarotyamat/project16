@@ -35,7 +35,7 @@
 function validateInputs()
   {
     //declaration of variables
-
+    var noFormErrors
     var SubmitForm;
     var FormErrors;
 
@@ -92,8 +92,12 @@ var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?
         email = email.replace(/[^a-z0-9_@.-]/gim,"");
         email = email.trim();
 
+        noFormErrors = "Looks Great! Thank You!";
+        alert(noFormErrors);
+
         //ready to submit
         document.MyForm.submit();
+
 
     }
     // else {
