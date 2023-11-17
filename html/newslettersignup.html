@@ -55,7 +55,7 @@ function validateInputs()
     // I'm going to replace this logical operator or with logical operator and https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
     // if ( fullname.length<1 || email.length<1 )
 
-    if ( fullname.length<1 && email.length<1 && phone.length<1 )
+    if (fullname.length < 1 || email.length < 1 || phone.length < 1)
     {
     FormErrors = "All fields are mandatory. Please complete the form.";
     SubmitForm = false;
