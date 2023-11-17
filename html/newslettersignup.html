@@ -10,9 +10,21 @@
      <div style="text-align:center;">
      <input type="text" name="fullname"  placeholder="Your name">
      <input type="text" name="email"  placeholder="Your email">
+     <input type="tel" id="phone" name="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
      <input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();">
     </div>
    </form>
+
+<!-- 
+
+<div class="input-group">
+<label for="phone" class="form-label">Telephone </label>
+<input type="tel" id="phone" name="phone" class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+<small class="error-msg invalid-feedback">Format: 555-555-5555</small>
+</div>
+
+ -->
+
 <script>
 function validateInputs()
   {
