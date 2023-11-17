@@ -16,7 +16,11 @@ for project 11. I have no idea where they would be.
 ...
 
 2. Instructions
+
+
 Instructions
+
+
 Begin with the Newsletter sign up form developed locally in Day 2, Lesson 1 Defending against XSS.
 Add a phone number field to your Newsletter Signup form.
 Use maxlength attribute to further restrict user inputs.
@@ -25,6 +29,9 @@ Check that the phone number input is not blank.
 Check that the phone number contains only numbers and dashes.
 If there are any issues with the phone number field, prepare an error message for the user.
 If there are no problems with the phone number input, sanitize it before submitting the form.
+
+
+
 Submission steps:
 Before you click on "Mark as Completed":
 You need to do one of the following: either upload all of your files to Codio or deploy a GitHub Page for this project.
