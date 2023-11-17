@@ -29,14 +29,17 @@
 function validateInputs()
   {
     //declaration of variables
+    
     var SubmitForm;
     var FormErrors;
 
     //Initially set SubmitForm to true. 
+
     SubmitForm = true;
 
     //Retrieve variables to be validated and sanitized
     //Assume they are dangerous for now
+
     var fullname    = new String(document.MyForm.fullname.value);
     var email   = new String(document.MyForm.email.value);
     var phone   = new String(document.MyForm.phone.value);
@@ -45,6 +48,7 @@ function validateInputs()
     //JavaScript logical operator for OR : ||    [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR]
     // I'm going to replace this logical operator or with logical operator and https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
     // if ( fullname.length<1 || email.length<1 )
+
     if ( fullname.length<1 && email.length<1 && phone.length<1 )
     {
     FormErrors = "All fields are mandatory. Please complete the form.";
