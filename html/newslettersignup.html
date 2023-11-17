@@ -29,7 +29,7 @@
 function validateInputs()
   {
     //declaration of variables
-    
+
     var SubmitForm;
     var FormErrors;
 
@@ -54,13 +54,17 @@ function validateInputs()
     FormErrors = "All fields are mandatory. Please complete the form.";
     SubmitForm = false;
     } else {
+
 //Set up a filter for the pattern of an email
 //Learn more about referencing characters:          //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
 
+
 var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+
     
     //Use test() method to check user email against the filter
     //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
+    
     if (!filter.test(email))
     {
         FormErrors = "Your form contains invalid field entries. Please correct your form before submitting";
