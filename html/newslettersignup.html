@@ -38,6 +38,11 @@ function validateInputs()
     var noFormErrors
     var SubmitForm;
     var FormErrors;
+    var FormEmailErrors;
+    var FormPhoneErrors;
+
+    var SubmitEmailProblemsForm;
+    var SubmitPhoneProblemsForm;
 
     //Initially set SubmitForm to true. 
 
@@ -74,13 +79,15 @@ var filterPhone = /^[\d-]{10}$/;
     //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
 
     if (!filter.test(email)) {
-    FormErrors = "Your email address is invalid. Please enter a valid email address.";
+    FormErrors = "Your form contains invalid field entries. Please correct your form before submitting.";
     SubmitForm = false;
+    SubmitEmailProblemsForm = false;
 }
 
 if (!filterPhone.test(phone)) {
-    FormErrors = "Your phone number is invalid. Please enter a valid phone number.";
+    FormErrors = "Your form contains invalid field entries. Please correct your form before submitting.";
     SubmitForm = false;
+    SubmitPhoneProblemsForm = false;
 }
 
 
@@ -92,7 +99,10 @@ if (!filterPhone.test(phone)) {
         //The form cannot be submitted.
         alert(FormErrors);
         return false;
-    } else {
+    } 
+    
+    
+    else {
         
         //SANITIZE user inputs by allowing only [a-z 0-9 _ - . @] 
         //strip forbidden characters
