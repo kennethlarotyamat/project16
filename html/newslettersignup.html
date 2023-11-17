@@ -66,19 +66,26 @@ function validateInputs()
 
 
 var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
-var filterPhone = /^[\d-]+$/;
+var filterPhone = /^[\d-]{10}$/;
+
 
     
     //Use test() method to check user email against the filter
     //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
 
-    if (!filter.test(email))
-    {
-        FormErrors = "Your form contains invalid field entries. Please correct your form before submitting";
-        SubmitForm = false;
-     }
+    if (!filter.test(email)) {
+    FormErrors = "Your email address is invalid. Please enter a valid email address.";
+    SubmitForm = false;
+}
+
+if (!filterPhone.test(phone)) {
+    FormErrors = "Your phone number is invalid. Please enter a valid phone number.";
+    SubmitForm = false;
+}
+
 
     }
+
     
     if (SubmitForm == false)
     {
