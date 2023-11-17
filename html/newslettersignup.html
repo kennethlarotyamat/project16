@@ -79,15 +79,21 @@ var filterPhone = /^[\d-]{10}$/;
     //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
 
     if (!filter.test(email)) {
-    FormErrors = "Your form contains invalid field entries. Please correct your form before submitting.";
+    FormErrors = "Your email address is invalid. Please enter a valid email address.";
     SubmitForm = false;
+    FormEmailErrors = "Your email address is invalid. Please enter a valid email address.";
     SubmitEmailProblemsForm = false;
+
+
+
 }
 
 if (!filterPhone.test(phone)) {
-    FormErrors = "Your form contains invalid field entries. Please correct your form before submitting.";
+    FormErrors = "Your phone number is invalid. Please enter a valid phone number.";
     SubmitForm = false;
+    FormPhoneErrors = "Your phone number is invalid. Please enter a valid phone number.";
     SubmitPhoneProblemsForm = false;
+
 }
 
 
@@ -99,7 +105,19 @@ if (!filterPhone.test(phone)) {
         //The form cannot be submitted.
         alert(FormErrors);
         return false;
+    }
+    if (SubmitEmailProblemsForm == false)
+    {
+        //The form cannot be submitted.
+        alert(FormEmailErrors);
+        return false;
     } 
+    if (SubmitPhoneProblemsForm == false)
+    {
+        //The form cannot be submitted.
+        alert(FormPhoneErrors);
+        return false;
+    }  
     
     
     else {
