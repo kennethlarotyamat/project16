@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-   <meta charset="utf-8" />
-   <title>My Basic Form</title>
+   <meta charset="utf-8" /><link rel="icon" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhis5UXOyPLEmBDmRjOHERNBK5CSCBwelHPiOaPwzn903vmcdjBQ_QFy9t4b5N-WNQaxgDTKjK4l7VsbpzXJ9Y82q7MJrdk8c3xq3Nty_TvvAAK1SglaLV9c3f4alOXkW8tYJEZ50WBzNW2tWXdj-ssJLN3HNPhqw0A1DQMNdwJu0aNGArbOUZ3nyvXO-A/s320/Chestnut%20+%20Hazel%20%200123%20(12)%2000%20002%20048.png">
+   <title>Project 16: My Basic Form</title>
 </head>
 <body>
    <h1 style="text-align:center;">Newsletter Sign-Up</h1>
@@ -10,6 +10,7 @@
      <div style="text-align:center;">
      <input type="text" name="fullname"  placeholder="Your name">
      <input type="text" name="email"  placeholder="Your email">
+     <input type="tel" id=" " name="phone" placeholder="Your phone #" maxlength="12"  class="form-control" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
      <input type="submit" name="submit"  value="Submit" onClick="javascript:return validateInputs();">
     </div>
    </form>
@@ -27,10 +28,11 @@ function validateInputs()
     //Assume they are dangerous for now
     var fullname    = new String(document.MyForm.fullname.value);
     var email   = new String(document.MyForm.email.value);
+    var phone   = new String(document.MyForm.phone.value);
 
     //Check that the user inputs are not blank
     //JavaScript logical operator for OR : ||
-    if ( fullname.length<1 || email.length<1 )
+    if (fullname.length < 1 || email.length < 1 || phone.length < 1)
     {
     FormErrors = "All fields are mandatory. Please complete the form.";
     SubmitForm = false;
@@ -39,6 +41,7 @@ function validateInputs()
 //Learn more about referencing characters:          //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes
 
 var filter = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+var filterPhone = /^[\d-]{10}$/;
     
     //Use test() method to check user email against the filter
     //test() method: https://www.w3schools.com/jsref/jsref_regexp_test.asp     
