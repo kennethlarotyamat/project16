@@ -1,5 +1,8 @@
 Wallace Stevens 
 
+
+https://archive.org/stream/wallacestevens_publicdomain/wallacestevens_publicdomain_djvu.txt
+
 3 
 
 
