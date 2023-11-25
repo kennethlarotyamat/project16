@@ -1,5 +1,9 @@
 T. S. Eliot 
 
+https://www.gutenberg.org/cache/epub/1567/pg1567.txt
+
+https://www.gutenberg.org/cache/epub/1459/pg1459.txt
+
 The Boston Evening Transcript (1920)
 
      The readers of the Boston Evening Transcript
