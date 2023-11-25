@@ -1,5 +1,76 @@
 José de Espronceda
 
+
+
+"EL ESTUDIANTE DE SALAMANCA"
+AND OTHER SELECTIONS
+FROM ESPRONCEDA
+
+
+
+                                   CUENTO.
+
+                         EL ESTUDIANTE DE SALAMANCA
+
+
+                               PARTE PRIMERA
+
+                              Sus fueros, sus bríos; sus premáticas,
+                              su voluntad.--"Quijote," Parte Primera
+
+            Era más de media noche,
+          Antiguas historias cuentan,
+          Cuando, en sueño y en silencio
+          Lóbrego envuelta la tierra,
+          Los vivos muertos parecen,                               [5]
+          Los muertos la tumba dejan.
+          Era la hora en que acaso
+          Temerosas voces suenan
+          Informes, en que se escuchan
+          Tácitas pisadas huecas,                                 [10]
+          Y pavorosas fantasmas
+          Entre las densas tinieblas
+          Vagan, y aúllan los perros
+          Amedrentados al verlas;
+          En que tal vez la campana                               [15]
+          De alguna arruinada iglesia
+          Da misteriosos sonidos
+          De maldición y anatema,
+          Que los sábados convoca
+          A las brujas a su fiesta.                               [20]
+          El cielo estaba sombrío,
+          No vislumbraba una estrella,
+          Silbaba lúgubre el viento,
+          Y allá en el aire, cual negras
+          Fantasmas, se dibujaban                                 [25]
+          Las torres de las iglesias,
+          Y del gótico castillo
+          Las altísimas almenas,
+          Donde canta o reza acaso
+          Temeroso el centinela                                   [30]
+          Todo en fin a media noche
+          Reposaba, y tumba era
+          De sus dormidos vivientes
+          La antigua ciudad que riega
+          El Tormes, fecundo río,                                 [35]
+          Nombrado de los poetas,
+          La famosa Salamanca,
+          Insigne en armas y letras,
+          Patria de ilustres varones,
+          Noble archivo de las ciencias.                          [40]
+            Súbito rumor de espadas
+          Cruje, y un «¡ay!» se escuchó;
+          Un «¡ay!» moribundo, un «¡ay!»
+          Que penetra el corazón,
+          Que hasta los tuétanos hiela                            [45]
+          Y da al que lo oyó temblor;
+          Un «¡ay!» de alguno que al mundo
+          Pronuncia el último adiós.
+
+          
+
+https://www.gutenberg.org/cache/epub/15781/pg15781.txt
+
 ...
 
 XI.
