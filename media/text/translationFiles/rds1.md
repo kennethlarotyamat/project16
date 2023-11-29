@@ -35,28 +35,28 @@ rhymes run in circles through a vast
 forest to collect honey and
 scents from blooming flowers.
 
-   *       *       *       *       *
+*       *       *       *       *
 
-      Mira: en tus ojos los míos:
-    da al viento la cabellera,
-    y que bañe el sol ese aro
-    de luz salvaje y espléndida.
-    Dame que aprieten mis manos
-    las tuyas de rosa y seda,
-    y ríe, y muestren tus labios
-    su púrpura húmeda y fresca.
-    Yo voy a decirte rimas,
-    tú vas a escuchar risueña;
-    si acaso algún ruiseñor
-    viniese a posarse cerca
-    y a contar alguna historia
-    de ninfa, rosas o estrellas,
-    tú no oirás notas ni trinos,
-    sino enamorada y regia,
-    escucharás mis canciones
-    fija en mis labios que tiemblan.
-    ¡Oh, amada mía! Es el dulce
-    tiempo de la primavera.
+Mira: en tus ojos los míos:
+da al viento la cabellera,
+y que bañe el sol ese aro
+de luz salvaje y espléndida.
+Dame que aprieten mis manos
+las tuyas de rosa y seda,
+y ríe, y muestren tus labios
+su púrpura húmeda y fresca.
+Yo voy a decirte rimas,
+tú vas a escuchar risueña;
+si acaso algún ruiseñor
+viniese a posarse cerca
+y a contar alguna historia
+de ninfa, rosas o estrellas,
+tú no oirás notas ni trinos,
+sino enamorada y regia,
+escucharás mis canciones
+fija en mis labios que tiemblan.
+¡Oh, amada mía! Es el dulce
+tiempo de la primavera.
 
    *       *       *       *       *
 
