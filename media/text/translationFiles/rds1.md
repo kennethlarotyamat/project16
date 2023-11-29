@@ -35,7 +35,10 @@ rhymes run in circles through a vast
 forest to collect honey and
 scents from blooming flowers.
 
-Come, my love, to the sacred grove
+Come, my love, to our place: the hallowed 
+grove where an ambience of love floats 
+above the aromas of the spring forest
+
 
 *       *       *       *       *
 
