@@ -5,10 +5,10 @@ https://www.gutenberg.org/ebooks/search/?query=Rub%C3%A9n+Dar%C3%ADo+&submit_sea
 
 https://www.gutenberg.org/cache/epub/52894/pg52894.txt
 
-(1888)
 
 
-PRIMAVERAL
+
+PRIMAVERAL (1888)
 
 Original Text
 
