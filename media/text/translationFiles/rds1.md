@@ -43,7 +43,7 @@ above the aromas of the foliage of Spring.
 A bird flies from tree to tree and
 greets you, and your face, blushing
 and as beautiful as the dawn and the
-superb oaks, tall and robust, they
+superb oaks, tall and robust,
 
 tremble as you walk by, its leaves
 shake and its branches rise to give
