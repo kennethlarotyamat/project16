@@ -39,6 +39,10 @@ Come, my love, to our place: the hallowed
 grove where an ambience of love floats 
 above the aromas of the foliage of Spring.
 
+A bird flies from tree to tree and
+greets you, and your face, blushing
+and as beautiful as the dawn
+
 
 *       *       *       *       *
 
