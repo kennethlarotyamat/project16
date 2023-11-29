@@ -91,7 +91,13 @@ Translation
 Listen: in your eyes I sense
 an air of a genteel woman, even
 the sun itself bathes in the
-aura of you spectacular fierceness!
+aura of your spectacular fierceness!
+
+Hold my hands with those delicate,
+rose colored hands of yours, and let
+me see you smile with those glistening
+mauve lips of yours.
+
 
 * * * * *
 
