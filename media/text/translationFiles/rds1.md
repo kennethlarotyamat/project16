@@ -80,7 +80,7 @@ fija en mis labios que tiemblan.
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
 
-*       *       *       *       *
+* * * * *
 
 3
 
@@ -105,7 +105,7 @@ empapada en miel hiblea...
 ¡oh, amada mía! en el dulce
 tiempo de la primavera.
 
-*       *       *       *       *
+* * * * *
 
 4
 
@@ -126,7 +126,7 @@ fecundo la madre tierra,
 con el alma de los cálices
 y el aroma de las yerbas.
 
-*       *       *       *       *
+* * * * *
 
 5
 
@@ -147,7 +147,7 @@ que hizo reventar las yemas,
 ¡oh, amada mía, en el dulce
 tiempo de la primavera!
 
-*       *       *       *       *
+* * * * *
 
 6
 
