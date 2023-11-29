@@ -88,7 +88,7 @@ Translation
 
 2
 
-Listen: in your eyes I sense
+When I lock eyes with you I sense
 an air of a genteel woman, even
 the sun itself bathes in the
 aura of your spectacular fierceness!
