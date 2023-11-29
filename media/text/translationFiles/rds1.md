@@ -4,6 +4,8 @@ PRIMAVERAL (1888)
 
 Original Text
 
+1
+
 Mes de rosas. Van mis rimas
 en ronda, a la vasta selva,
 a recoger miel y aromas
@@ -31,6 +33,8 @@ Spring (2023)
 
 Translation
 
+1
+
 During the blossoming months, my
 rhymes run in circles through a vast
 forest to collect nectar and
@@ -52,6 +56,8 @@ sweet spring season.
 
 
 *       *       *       *       *
+
+2
 
 Mira: en tus ojos los míos:
 da al viento la cabellera,
@@ -76,6 +82,8 @@ tiempo de la primavera.
 
 *       *       *       *       *
 
+3
+
 Allá hay una clara fuente
 que brota de una caverna,
 donde se bañan desnudas
@@ -99,6 +107,8 @@ tiempo de la primavera.
 
 *       *       *       *       *
 
+4
+
 Van en sus grupos vibrantes
 revolando las abejas
 como un áureo torbellino
@@ -118,6 +128,8 @@ y el aroma de las yerbas.
 
 *       *       *       *       *
 
+5
+
 ¿Ves aquel nido? Hay un ave.
 Son dos: el macho y la hembra.
 Ella tiene el buche blanco,
@@ -136,6 +148,8 @@ que hizo reventar las yemas,
 tiempo de la primavera!
 
 *       *       *       *       *
+
+6
 
 Mi dulce musa Delicia
 me trajo un ánfora griega
@@ -161,6 +175,3 @@ Quiero beber del amor
 sólo en tu boca bermeja,
 ¡oh, amada mía, en el dulce
 tiempo de la primavera!
-
-
-
