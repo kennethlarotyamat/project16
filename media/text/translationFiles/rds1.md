@@ -55,8 +55,9 @@ superb oaks, tall and robust,
 
 tremble as you walk by, its leaves
 shake and its branches rise to give
-way to the queen. My Love! It's the
-sweet Spring season.
+way to the queen. 
+
+My Love! It's the sweet Spring season.
 
 * * * * *
 
