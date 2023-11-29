@@ -26,7 +26,7 @@ para que pase una reina.
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
 
-Spring
+Spring (2023)
 
 Translation
 
@@ -37,7 +37,7 @@ scents from blooming flowers.
 
 Come, my love, to our place: the hallowed 
 grove where an ambience of love floats 
-above the aromas of the spring forest
+above the aromas of the spring forest.
 
 
 *       *       *       *       *
