@@ -1,5 +1,7 @@
 Rubén Darío 
 
+* * * * *
+
 PRIMAVERAL (1888)
 
 Original Text
@@ -29,9 +31,9 @@ para que pase una reina.
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
 
-Spring (2023)
-
 * * * * *
+
+Spring (2023)
 
 Translation
 
