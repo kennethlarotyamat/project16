@@ -103,7 +103,6 @@ rose colored hands of yours, and let
 me see you smile with those glistening
 mauve lips of yours.
 
-
 * * * * *
 
 3
