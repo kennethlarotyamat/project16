@@ -10,25 +10,38 @@ https://www.gutenberg.org/cache/epub/52894/pg52894.txt
 
 PRIMAVERAL
 
+Original Text
 
-      Mes de rosas. Van mis rimas
-    en ronda, a la vasta selva,
-    a recoger miel y aromas
-    en las flores entreabiertas.
-    Amada, ven. El gran bosque
-    es nuestro templo; allí ondea
-    y flota un santo perfume
-    de amor. El pájaro vuela
-    de un árbol a otro y saluda
-    tu frente rosada y bella
-    como a un alba; y las encinas
-    robustas, altas, soberbias,
-    cuando tú pasas agitan
-    sus hojas verdes y trémulas,
-    y enarcan sus ramas como
-    para que pase una reina.
-    ¡Oh, amada mía! Es el dulce
-    tiempo de la primavera.
+Mes de rosas. Van mis rimas
+en ronda, a la vasta selva,
+a recoger miel y aromas
+en las flores entreabiertas.
+
+Amada, ven. El gran bosque
+es nuestro templo; allí ondea
+y flota un santo perfume
+de amor. 
+
+El pájaro vuela
+de un árbol a otro y saluda
+tu frente rosada y bella
+como a un alba; y las encinas
+robustas, altas, soberbias,
+cuando tú pasas agitan
+sus hojas verdes y trémulas,
+y enarcan sus ramas como
+para que pase una reina.
+¡Oh, amada mía! Es el dulce
+tiempo de la primavera.
+
+Spring
+
+Translation
+
+During the blossoming months, my 
+rhymes run in circles through a vast
+forest to collect honey and
+scents from blooming flowers.
 
    *       *       *       *       *
 
