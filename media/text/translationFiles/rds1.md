@@ -86,6 +86,9 @@ Translation
 
 2
 
+Look: in your eyes I see
+an air of a genteel woman
+
 * * * * *
 
 3
