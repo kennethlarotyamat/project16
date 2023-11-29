@@ -55,7 +55,7 @@ way to the queen. My Love! It's the
 sweet spring season.
 
 
-*       *       *       *       *
+* * * * *
 
 2
 
