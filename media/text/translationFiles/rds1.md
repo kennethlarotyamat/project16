@@ -31,13 +31,13 @@ Spring (2023)
 
 Translation
 
-During the blossoming months, my 
+During the blossoming months, my
 rhymes run in circles through a vast
-forest to collect honey and
+forest to collect nectar and
 scents from blooming flowers.
 
-Come, my love, to our place: the hallowed 
-grove where an ambience of love floats 
+Come, my love, to our place: the hallowed
+grove where an ambience of love floats
 above the aromas of the foliage of Spring.
 
 A bird flies from tree to tree and
@@ -45,8 +45,8 @@ greets you, and your face, blushing
 and as beautiful as the dawn and the
 superb oaks, tall and robust, they
 
-tremble as you walk by, it's leaves
-shake and it's branches rise to give
+tremble as you walk by, its leaves
+shake and its branches rise to give
 way to the queen. My Love! It's the
 sweet spring season.
 
