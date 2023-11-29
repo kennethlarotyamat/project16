@@ -35,6 +35,8 @@ rhymes run in circles through a vast
 forest to collect honey and
 scents from blooming flowers.
 
+Come, my love, to the sacred grove
+
 *       *       *       *       *
 
 Mira: en tus ojos los míos:
