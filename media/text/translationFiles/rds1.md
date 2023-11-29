@@ -104,7 +104,7 @@ rose colored hands of yours, and let
 me see you smile with those glistening
 mauve lips of yours.
 
-I'll recite poetry, and watch you smile
+I'll sing you songs, and see you smile
 as you listen, and if some mockingbird
 were to perch nearby and tell a story
 of a nymph or rose or stars, you
