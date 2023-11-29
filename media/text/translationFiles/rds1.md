@@ -117,6 +117,8 @@ My Love! This is the sweet Spring season!
 
 * * * * *
 
+Original Text
+
 3
 
 Allá hay una clara fuente
@@ -139,6 +141,12 @@ y te diré esa palabra
 empapada en miel hiblea...
 ¡oh, amada mía! en el dulce
 tiempo de la primavera.
+
+* * * * *
+
+Translation
+
+3
 
 * * * * *
 
