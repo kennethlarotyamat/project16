@@ -65,6 +65,7 @@ Mira: en tus ojos los míos:
 da al viento la cabellera,
 y que bañe el sol ese aro
 de luz salvaje y espléndida.
+
 Dame que aprieten mis manos
 las tuyas de rosa y seda,
 y ríe, y muestren tus labios
@@ -86,8 +87,10 @@ Translation
 
 2
 
-Look: in your eyes I see
-an air of a genteel woman
+Listen: in your eyes I sense
+an air of a genteel woman, even
+the sun itself bathes in the
+aura of you spectacular fierceness!
 
 * * * * *
 
