@@ -57,6 +57,8 @@ sweet spring season.
 
 * * * * *
 
+Original Text
+
 2
 
 Mira: en tus ojos los míos:
@@ -79,6 +81,10 @@ escucharás mis canciones
 fija en mis labios que tiemblan.
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
+
+Translation
+
+2
 
 * * * * *
 
