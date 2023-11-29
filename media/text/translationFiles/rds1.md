@@ -31,6 +31,8 @@ tiempo de la primavera.
 
 Spring (2023)
 
+* * * * *
+
 Translation
 
 1
@@ -83,6 +85,8 @@ escucharás mis canciones
 fija en mis labios que tiemblan.
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
+
+* * * * *
 
 Translation
 
