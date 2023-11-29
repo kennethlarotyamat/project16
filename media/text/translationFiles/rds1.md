@@ -34,7 +34,7 @@ Translation
 During the blossoming months, my
 rhymes run in circles through a vast
 forest to collect nectar and
-pollen from blooming flowers.
+aromatics from blooming flowers.
 
 Come, my love! to our place: the hallowed
 grove where an ambience of love floats
