@@ -1,13 +1,5 @@
 Rubén Darío 
 
-https://www.gutenberg.org/ebooks/search/?query=Rub%C3%A9n+Dar%C3%ADo+&submit_search=Go%21
-
-
-https://www.gutenberg.org/cache/epub/52894/pg52894.txt
-
-
-
-
 PRIMAVERAL (1888)
 
 Original Text
