@@ -56,7 +56,7 @@ superb oaks, tall and robust,
 tremble as you walk by, its leaves
 shake and its branches rise to give
 way to the queen. My Love! It's the
-sweet spring season.
+sweet Spring season.
 
 * * * * *
 
@@ -84,6 +84,7 @@ tú no oirás notas ni trinos,
 sino enamorada y regia,
 escucharás mis canciones
 fija en mis labios que tiemblan.
+
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
 
@@ -102,6 +103,16 @@ Hold my hands with those delicate,
 rose colored hands of yours, and let
 me see you smile with those glistening
 mauve lips of yours.
+
+I'll recite poetry, and watch you smile
+as you listen, and if some mockingbird
+were to perch nearby and tell a story
+of a nymph or rose or stars, you
+won't hear chirps or squeaks, but with
+love and affection listen to my songs,
+fixated on my trembling lips.
+
+My Love! This is the sweet Spring season!
 
 * * * * *
 
