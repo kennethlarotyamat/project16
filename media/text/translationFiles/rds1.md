@@ -58,7 +58,6 @@ shake and its branches rise to give
 way to the queen. My Love! It's the
 sweet spring season.
 
-
 * * * * *
 
 Original Text
