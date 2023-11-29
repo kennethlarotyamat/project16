@@ -74,93 +74,93 @@ fija en mis labios que tiemblan.
 ¡Oh, amada mía! Es el dulce
 tiempo de la primavera.
 
-   *       *       *       *       *
+*       *       *       *       *
 
-      Allá hay una clara fuente
-    que brota de una caverna,
-    donde se bañan desnudas
-    las blancas ninfas que juegan.
-    Ríen al son de la espuma,
-    hienden la linfa serena;
-    entre polvo cristalino
-    esponjan sus cabelleras;
-    y saben himnos de amores
-    en hermosa lengua griega,
-    que en glorioso tiempo antiguo
-    Pan inventó en las florestas.
-    Amada, pondré en mis rimas
-    la palabra más soberbia
-    de las frases de los versos
-    de los himnos de esa lengua;
-    y te diré esa palabra
-    empapada en miel hiblea...
-    ¡oh, amada mía! en el dulce
-    tiempo de la primavera.
+Allá hay una clara fuente
+que brota de una caverna,
+donde se bañan desnudas
+las blancas ninfas que juegan.
+Ríen al son de la espuma,
+hienden la linfa serena;
+entre polvo cristalino
+esponjan sus cabelleras;
+y saben himnos de amores
+en hermosa lengua griega,
+que en glorioso tiempo antiguo
+Pan inventó en las florestas.
+Amada, pondré en mis rimas
+la palabra más soberbia
+de las frases de los versos
+de los himnos de esa lengua;
+y te diré esa palabra
+empapada en miel hiblea...
+¡oh, amada mía! en el dulce
+tiempo de la primavera.
 
-   *       *       *       *       *
+*       *       *       *       *
 
-      Van en sus grupos vibrantes
-    revolando las abejas
-    como un áureo torbellino
-    que la blanca luz alegra;
-    y sobre el agua sonora
-    pasan radiantes, ligeras,
-    con sus alas cristalinas
-    las irisadas libélulas.
-    Oye: canta la cigarra
-    porque ama al sol, que en la selva
-    su polvo de oro tamiza,
-    entre las hojas espesas.
-    Su aliento nos da en un soplo
-    fecundo la madre tierra,
-    con el alma de los cálices
-    y el aroma de las yerbas.
+Van en sus grupos vibrantes
+revolando las abejas
+como un áureo torbellino
+que la blanca luz alegra;
+y sobre el agua sonora
+pasan radiantes, ligeras,
+con sus alas cristalinas
+las irisadas libélulas.
+Oye: canta la cigarra
+porque ama al sol, que en la selva
+su polvo de oro tamiza,
+entre las hojas espesas.
+Su aliento nos da en un soplo
+fecundo la madre tierra,
+con el alma de los cálices
+y el aroma de las yerbas.
 
-   *       *       *       *       *
+*       *       *       *       *
 
-      ¿Ves aquel nido? Hay un ave.
-    Son dos: el macho y la hembra.
-    Ella tiene el buche blanco,
-    él tiene las plumas negras.
-    En la garganta el gorjeo,
-    las alas blancas y trémulas;
-    y los picos que se chocan
-    como labios que se besan.
-    El nido es cántico. El ave
-    incuba el trino, ¡oh, poetas!
-    de la lira universal
-    el ave pulsa una cuerda.
-    Bendito el calor sagrado
-    que hizo reventar las yemas,
-    ¡oh, amada mía, en el dulce
-    tiempo de la primavera!
+¿Ves aquel nido? Hay un ave.
+Son dos: el macho y la hembra.
+Ella tiene el buche blanco,
+él tiene las plumas negras.
+En la garganta el gorjeo,
+las alas blancas y trémulas;
+y los picos que se chocan
+como labios que se besan.
+El nido es cántico. El ave
+incuba el trino, ¡oh, poetas!
+de la lira universal
+el ave pulsa una cuerda.
+Bendito el calor sagrado
+que hizo reventar las yemas,
+¡oh, amada mía, en el dulce
+tiempo de la primavera!
 
-   *       *       *       *       *
+*       *       *       *       *
 
-      Mi dulce musa Delicia
-    me trajo un ánfora griega
-    cincelada en alabastro,
-    de vino de Naxos llena;
-    y una hermosa copa de oro,
-    la base henchida de perlas,
-    para que bebiese el vino
-    que es propicio a los poetas.
-    En la ánfora está Diana,
-    real, orgullosa y esbelta,
-    con su desnudez divina
-    y en su actitud cinegética.
-    Y en la copa luminosa
-    está Venus Citerea
-    tendida cerca de Adonis
-    que sus caricias desdeña.
-    No quiero el vino de Naxos
-    ni el ánfora de ansas bellas,
-    ni la copa donde Cipria
-    al gallardo Adonis ruega.
-    Quiero beber del amor
-    sólo en tu boca bermeja,
-    ¡oh, amada mía, en el dulce
-    tiempo de la primavera!
+Mi dulce musa Delicia
+me trajo un ánfora griega
+cincelada en alabastro,
+de vino de Naxos llena;
+y una hermosa copa de oro,
+la base henchida de perlas,
+para que bebiese el vino
+que es propicio a los poetas.
+En la ánfora está Diana,
+real, orgullosa y esbelta,
+con su desnudez divina
+y en su actitud cinegética.
+Y en la copa luminosa
+está Venus Citerea
+tendida cerca de Adonis
+que sus caricias desdeña.
+No quiero el vino de Naxos
+ni el ánfora de ansas bellas,
+ni la copa donde Cipria
+al gallardo Adonis ruega.
+Quiero beber del amor
+sólo en tu boca bermeja,
+¡oh, amada mía, en el dulce
+tiempo de la primavera!
 
 
 
