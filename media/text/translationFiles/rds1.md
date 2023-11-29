@@ -106,7 +106,7 @@ mauve lips of yours.
 
 I'll sing you songs, and see you smile
 as you listen, and if some songbird
-were to sit nearby and tell a story
+were to sit nearby and recite a story
 of a nymph or rose or stars, you
 won't hear chirps or squeaks, but with
 love and affection listen to my songs,
