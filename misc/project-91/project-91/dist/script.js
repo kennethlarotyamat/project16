@@ -20,7 +20,10 @@ function toggleMode() {
 
   modeStatus.innerText = "Currently in " + modeMessage;
 }
-
+/**
+ * what is going on here. this is a long. this is a log of the issues.
+ * 
+ */
 modeToggle.addEventListener('click', toggleMode);
 
 /*
@@ -46,6 +49,11 @@ modeToggle.addEventListener('click', toggleMode);
 2024-02-21 03:03:12.536 [info] > git rev-parse --git-dir --git-common-dir [747ms]
 2024-02-21 03:03:12.552 [info] Open repository: d:\GitHub\miscellaneous
 2024-02-21 03:03:12.671 [info] > git config --get commit.template [111ms]
+
+I don't even want to think about all this garage door 
+garbage
+what a headache, what a nightmare.
+
 2024-02-21 03:03:12.786 [info] > git check-ignore -v -z --stdin [972ms]
 2024-02-21 03:03:13.046 [info] > git rev-parse --show-toplevel [480ms]
 2024-02-21 03:03:13.064 [info] > git check-ignore -v -z --stdin [1263ms]

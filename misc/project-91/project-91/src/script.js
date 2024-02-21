@@ -15,13 +15,46 @@ function toggleMode() {
   body.classList.toggle('dark-mode');
 
   const modeMessage = body.classList.contains('dark-mode') ?
+  /**
+   * this reminds me of something
+   * I remember, at some point, I realized that I could have
+   * different .js files. or different javascript files
+   * and seperate them and link them to an html page. it was getting confusing
+   * having so many different things going on at once - in a single .js file.
+   */
     'Dark Mode' 
+
+    /**
+     * 
+     * i'm frustrated about it all, what a nightmare
+     * headache.
+     * I'm sure things will get better
+     * 
+     * 
+     * 
+     */
+
     : "Light Mode"
+
+/**
+ * I can't really afford to just stay home and
+ * study and just focus on getting my assignments done. 
+ * these two things are just so challenging to
+ * deal with.
+ */
 
   modeStatus.innerText = "Currently in " + modeMessage;
 }
+
+
 /*
 
+
+It's slowing down again when trying
+to commit changes. the
+slowdown is here
+in project 16, but I really don't remember
+what this project was.
 
 > git push origin main:main
 error: RPC failed; HTTP 400 curl 92 HTTP/2 stream 7 was not closed cleanly: CANCEL (err 8)
