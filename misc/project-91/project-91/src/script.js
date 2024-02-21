@@ -308,6 +308,12 @@ Everything up-to-date
 2024-02-21 03:24:07.480 [info] remote: 
 remote: GitHub found 4 vulnerabilities on kennethlarotyamat/project15's default branch (1 high, 3 moderate). To find out more, visit:        
 remote:      https://github.com/kennethlarotyamat/project15/security/dependabot        
+
+Phishing - i've been dealing with spam emails that are - they seem to be
+phishing attemps, it's usually anything that seems like it's
+a credit card or loan application or something related to CashApp, usually
+that's clearly some kind of phishing attempt.
+
 remote: 
 To https://github.com/kennethlarotyamat/project15.git
    d54394b..b82007f  main -> main
