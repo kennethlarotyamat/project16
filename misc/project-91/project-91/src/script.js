@@ -597,6 +597,12 @@ To https://github.com/kennethlarotyamat/project15.git
 send-pack: unexpected disconnect while reading sideband packet
 fatal: the remote end hung up unexpectedly
 Everything up-to-date
+
+if i don't - do well this semster - there 
+won't be any subsequent semesters - total nightmare.
+- there is no way i could have taken more classes, in terms of work load,
+and financially, I can't really take less than 2 classes.
+
 2024-02-21 03:33:52.113 [info] > git config --get commit.template [29ms]
 2024-02-21 03:33:52.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [29ms]
 2024-02-21 03:33:52.142 [info] > git status -z -uall [24ms]
